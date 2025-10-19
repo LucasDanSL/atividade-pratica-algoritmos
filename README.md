@@ -42,3 +42,19 @@ Print demonstra a busca do número 7, encontrado na posição 3.
 
 Exemplo de execução:
 A imagem de saída mostra o Gemini CLI gerando o arquivo linear_search.py, com a função encontrar_maximo documentada e a complexidade indicada como O(n).
+
+Como Acessar e Executar
+
+1️⃣ Clone o repositório:
+
+git clone https://github.com/LucasDanSL/atividade-pratica-algoritmos.git
+
+
+2️⃣ Acesse o diretório:
+
+cd atividade-pratica-algoritmos
+
+
+3️⃣ Execute qualquer script (exemplo):
+
+python bubble_sort.py
